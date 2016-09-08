@@ -1,7 +1,7 @@
 {
     "name": "charmer",
-    "version": "0.1.0",
-    "description": "Gorgeous JSON logging for your console.",
+    "version": "0.1.1",
+    "description": "Gorgeous JSON logging.",
     "author": {
         "name": "Stefan Aichholzer",
         "email": "theaichholzer@gmail.com",
@@ -42,7 +42,7 @@
     "bugs": {
         "url": "https://github.com/aichholzer/charmer/issues"
     },
-    "_from": "charmer@^0.0.0",
+    "_from": "charmer@^0.1.0",
     "_npmUser": {
         "name": "aichholzer",
         "email": "theaichholzer@gmail.com"
