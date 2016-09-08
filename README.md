@@ -1,9 +1,9 @@
+# charmer
 [![Build Status](https://travis-ci.org/aichholzer/charmer.svg?branch=master)](https://travis-ci.org/aichholzer/charmer)
 [![Dependency status](https://gemnasium.com/badges/github.com/aichholzer/charmer.svg)](https://gemnasium.com/github.com/aichholzer/charmer)
 [![Downloads](https://img.shields.io/npm/dt/charmer.svg)](https://www.npmjs.com/package/charmer)
 [![Always useful](https://img.shields.io/badge/always-useful-ff6400.svg)](https://github.com/aichholzer/charmer)
 
-# charmer
 Gorgeous JSON logging.
 
 
