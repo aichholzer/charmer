@@ -17,12 +17,12 @@ npm install --save charmer
 ```
 let charmer = require('charmer');
 
-charmer({"name":"charmer","type":"module","language":"javascript","purpose":"Make things gorgeous."}, [options]);
+charmer({"name":"charmer","type":"module","language":"javascript","purpose":"Gorgeous"}, [options]);
 // {
     "name": "charmer",
     "type": "module",
     "language": "javascript",
-    "purpose": "Make things gorgeous."
+    "purpose": "Gorgeous"
 }
 ```
 
@@ -31,7 +31,7 @@ charmer({"name":"charmer","type":"module","language":"javascript","purpose":"Mak
 ```
 {
   "fetch": "false",        // Whether the result should be returned or not. Default: false
-  "sort": 'asc' || 'desc', // Sort the result, by key. Works recursively.
+  "sort": 'asc' || 'desc'  // Sort the result, by key. Works recursively.
 }
 ```
 
