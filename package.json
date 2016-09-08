@@ -1,0 +1,50 @@
+{
+    "name": "charmer",
+    "version": "0.1.0",
+    "description": "Gorgeous JSON logging for your console.",
+    "author": {
+        "name": "Stefan Aichholzer",
+        "email": "theaichholzer@gmail.com",
+        "url": "https://github.com/aichholzer"
+    },
+    "contributors": [],
+    "maintainers": [],
+    "keywords": [
+        "console",
+        "logs",
+        "pretty",
+        "print",
+        "json",
+        "format",
+        "object"
+    ],
+    "homepage": "https://github.com/aichholzer/charmer",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:aichholzer/charmer.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=6.2"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "^3.0.2",
+        "should": "^11.1.0"
+    },
+    "main": "./lib/index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "./node_modules/mocha/bin/mocha -R progress -t 5000"
+    },
+    "bugs": {
+        "url": "https://github.com/aichholzer/charmer/issues"
+    },
+    "_from": "charmer@^0.0.0",
+    "_npmUser": {
+        "name": "aichholzer",
+        "email": "theaichholzer@gmail.com"
+    }
+}
